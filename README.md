@@ -5,4 +5,4 @@
 
 - ⚡ Eu sou aprendiz de desenvolvimento Back-End
 - 🌱 Estudando Python e C#
-- 💬 Meu hobby é Desenhar e Programar
+- 💬 Gosto de Desenhar e Programar
