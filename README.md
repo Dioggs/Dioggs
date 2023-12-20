@@ -7,7 +7,7 @@ Beginner Software Engineer
 I've been learning to code for about a year and i really enjoy it (for most of the time). To me, it's kinda of a weird therapy, it helps me relax and forget all of the shitty stuff life throws at me lol
 
 * 🌍  I'm based in Sao Paulo, Brazil
-* 🧠  I'm learning c++, python and c#, i tend to switch between them whenever a i fell like it
+* 🧠  I'm learning c++, python and c#, i tend to switch between them whenever i fell like it
 * ⚡  My biggest dream is that i want to become an animator, DONT TELL ANYONE
 
 ### Skills
