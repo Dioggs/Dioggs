@@ -7,8 +7,11 @@ Beginner Software Engineer
 I've been learning to code for about a year and i really enjoy it (for most of the time). To me, it's kinda of a weird therapy, it helps me relax and forget all of the shitty stuff life throws at me lol
 
 * 🌍  I'm based in Sao Paulo, Brazil
-* 🧠  I'm learning c++, python and c#, i tend to switch between them whenever i fell like it
+* 🧠  I'm learning c++, python and c#, i tend to switch between them whenever a i fell like it
 * ⚡  My biggest dream is that i want to become an animator, DONT TELL ANYONE
+
+<a href="https://www.github.com/Dioggs" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Dioggs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -27,3 +30,5 @@ I've been learning to code for about a year and i really enjoy it (for most of t
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Dioggs"><img src="https://github-readme-stats.vercel.app/api?username=Dioggs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dioggs's GitHub stats" /></a>
+
+<a href="https://github.com/Dioggs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dioggs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
