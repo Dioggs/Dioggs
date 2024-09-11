@@ -8,7 +8,7 @@ I've been learning to code for about a year and i really enjoy it (for most of t
 
 * 🌍  I'm based in Sao Paulo, Brazil
 * 🧠  I'm learning golang, c# and javascript, i tend to switch between them whenever a i fell like it
-* ⚡  My biggest dream is that i want to become an animator, DONT TELL ANYONE
+* ⚡  My biggest dream is that i want to become an animator/director
 
 <a href="https://www.github.com/Dioggs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dioggs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
