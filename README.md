@@ -1,14 +1,10 @@
 Hi 👋 My name is Diogo
 ======================
 
-Beginner Software Engineer
+Software Engineer
 --------------------------
 
-I've been learning to code for about a year and i really enjoy it (for most of the time). To me, it's kinda of a weird therapy, it helps me relax and forget all of the shitty stuff life throws at me lol
-
-* 🌍  I'm based in Sao Paulo, Brazil
-* 🧠  I'm learning golang, c# and javascript, i tend to switch between them whenever a i fell like it
-* ⚡  My biggest dream is that i want to become an animator/director
+I've been learning to code for almost 3 years and i really enjoy it (for most of the time). To me, it's kinda of a weird therapy, it helps me relax and forget all of the shitty stuff life throws at me lol
 
 <a href="https://www.github.com/Dioggs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dioggs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -22,7 +18,7 @@ src="https://img.shields.io/github/followers/Dioggs?logo=github&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/diogo-araldo-0463332bb/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/diogoaraldo/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" /> </picture> </a></p>
 
 
 ### Badges
