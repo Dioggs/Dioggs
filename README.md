@@ -4,7 +4,7 @@ Hi 👋 My name is Diogo
 Software Engineer
 --------------------------
 
-I've been learning to code for 3 years and i really enjoy it (for most of the time). To me, it's kinda of a weird therapy, it helps me relax and forget all of the shitty stuff life throws at me lol
+I've been a software engineer for 3 years and i really enjoy it (for most of the time). To me, it's kinda of a weird therapy, it helps me relax and forget all of the bad stuff life throws at me lol
 
 <a href="https://www.github.com/Dioggs" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dioggs?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
