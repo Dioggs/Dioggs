@@ -1,8 +1,28 @@
 <h1 data-importer="text" align="center">hello there</h1>
 
-###
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h2>My name is Diogo</h3>
+      <h3>
+          - I’m working as a fulltime Software Engineer<br>
+          - I mainly specialize in C# and Typescript<br>
+          - Using Linux on all my machines<br>
+          - I very much like cats<br>
+          - Currently learning about Golang and AI<br>
+          - I use VIM btw<br>
+          - You can reach me via Email or LinkedIn<br>
+      </h3>
+    </td>
+    <td width="35%" valign="top" align="center">
+      <img src="https://i.imgflip.com/65efzo.gif" height="1000" alt="Diogo's GIF" />
+    </td>
+  </tr>
+</table>
 
-<div data-importer="socials" align="center">
+<br clear="both">
+
+<div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/diogoaraldo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -13,11 +33,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">About Me</h3>
-
-###
-
-<p data-importer="text" align="left">I'm Diogo<br><br>- I’m working as a Software Engineer<br>- I like Linux<br>- I use VIM btw<br>- You can reach me via Email or LinkedIn</p>
+<br clear="both">
 
 ###
 
@@ -65,14 +81,14 @@
 
 ###
 
-<div data-importer="stats" align="center">
+<div data-importer="stats" align="left">
   <img src="https://streak-stats.demolab.com?user=Dioggs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Dioggs.Dioggs&"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Dioggs?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
