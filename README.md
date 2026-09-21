@@ -11,7 +11,8 @@
           - I like cats<br>
           - Currently learning about Golang and AI<br>
           - I use VIM btw<br>
-          - You can reach me via Email or LinkedIn<br>
+          - Email: diogo.araldo.work@gmail.com <br>
+          - Linkedin: https://www.linkedin.com/in/diogoaraldo/
       </h3>
     </td>
     <td width="35%" valign="top" align="center">
@@ -19,15 +20,6 @@
     </td>
   </tr>
 </table>
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/diogoaraldo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:diogo.araldo.work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 
