@@ -8,7 +8,7 @@
           - I’m working as a fulltime Software Engineer<br>
           - I mainly specialize in C# and Typescript<br>
           - Using Linux on all my machines<br>
-          - I very much like cats<br>
+          - I like cats<br>
           - Currently learning about Golang and AI<br>
           - I use VIM btw<br>
           - You can reach me via Email or LinkedIn<br>
