@@ -90,8 +90,8 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Dioggs?theme=moebooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Dioggs?theme=gelbooru&padding=4&scale=1&align=center&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
