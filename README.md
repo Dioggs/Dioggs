@@ -81,9 +81,3 @@
 </div>
 
 ###
-
-<div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Dioggs?theme=capoo-2&padding=4&scale=1&align=center&pixelated=1&darkmode=auto"  />
-</div>
-
-###
