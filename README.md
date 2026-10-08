@@ -1,17 +1,14 @@
-<h1 data-importer="text" align="center">hello there</h1>
-
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
       <h2>My name is Diogo</h3>
       <h3>
-          - I’m working as a fulltime Software Engineer<br>
-          - I mainly specialize in Typescript and Golang<br>
-          - Using Linux on all my machines<br>
-          - I like cats<br>
-          - Trying to learn how to use AI<br>
-          - I use VIM btw<br>
-          - Email: diogo.araldo.work@gmail.com <br>
+          - Specialized in Typescript and Golang<br>
+          - Linux lover<br>
+          - Using Vim (motions) btw<br>
+          - Running away from annoying tech
+          - Dreaming of moving far away from everybody
+          - Email: diogo.araldo.work@gmail.com<br>
           - Linkedin: https://www.linkedin.com/in/diogoaraldo/
       </h3>
     </td>
