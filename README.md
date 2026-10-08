@@ -6,10 +6,10 @@
       <h2>My name is Diogo</h3>
       <h3>
           - I’m working as a fulltime Software Engineer<br>
-          - I mainly specialize in C# and Typescript<br>
+          - I mainly specialize in Typescript and Golang<br>
           - Using Linux on all my machines<br>
           - I like cats<br>
-          - Currently learning about Golang and AI<br>
+          - Trying to learn how to use AI<br>
           - I use VIM btw<br>
           - Email: diogo.araldo.work@gmail.com <br>
           - Linkedin: https://www.linkedin.com/in/diogoaraldo/
