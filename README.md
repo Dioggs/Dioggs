@@ -6,8 +6,8 @@
           - Specialized in Typescript and Golang<br>
           - Linux lover<br>
           - Using Vim (motions) btw<br>
-          - Running away from annoying tech
-          - Dreaming of moving far away from everybody
+          - Running away from annoying tech<br>
+          - Dreaming of moving far away from everybody<br>
           - Email: diogo.araldo.work@gmail.com<br>
           - Linkedin: https://www.linkedin.com/in/diogoaraldo/
       </h3>
