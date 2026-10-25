@@ -3,7 +3,7 @@
     <td width="65%" valign="top">
       <h2>My name is Diogo</h3>
       <h3>
-          - Specialized in Typescript and Golang<br>
+          - Specialized in Typescript, C# and Golang<br>
           - Linux lover<br>
           - Using Vim (motions) btw<br>
           - Running away from annoying tech<br>
